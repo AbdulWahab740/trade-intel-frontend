@@ -1,0 +1,552 @@
+Month,Group,Commodity,Unit,Quantity_2025,Rupees_2025,Dollar_2025,Quantity_2024,Rupees_2024,Dollars_2024
+2025-01,Food Group,1.Rice,M.T,577541,88902,319052,752179,133859,477521
+2025-01,Food Group,A) Basmati,M.T,70696,21674,77782,80388,25055,89381
+2025-01,Food Group,B) Others,M.T,506845,67228,241270,671791,108804,388140
+2025-01,Food Group,2.Fish & Fish Preparations,M.T,15305,8436,30277,16707,8504,30336
+2025-01,Food Group,3.Fruits,M.T,97172,11548,41442,140486,11127,39692
+2025-01,Food Group,4.Vegetables,M.T,141359,9495,34076,144138,20416,72830
+2025-01,Food Group,5.Leguminous Vegetables (Pulses),M.T,0,0,0,101,25,89
+2025-01,Food Group,6.Tobacco,M.T,2783,3085,11071,3086,3254,11607
+2025-01,Food Group,7.Wheat,M.T,0,0,0,0,0,0
+2025-01,Food Group,8.Spices,M.T,2530,2315,8307,3084,2727,9729
+2025-01,Food Group,"9.Oil Seeds, Nuts And Kernals",M.T,15634,4710,16902,7458,3264,11645
+2025-01,Food Group,10.Sugar,M.T,124793,17927,64338,0,0,0
+2025-01,Food Group,11.Meat And Meat Preparations,M.T,10498,12717,45638,10438,13152,46919
+2025-01,Food Group,12.All Other Food Items,-,-,22994,82520,-,24057,85820
+2025-01,Textile Group,13.Raw Cotton,M.T,0,0,0,1334,656,2340
+2025-01,Textile Group,14.Cotton Yarn,M.T,24695,18139,65099,31806,22789,81295
+2025-01,Textile Group,15.Cotton Cloth,M.T,31599,45995,165067,31190,44773,159719
+2025-01,Textile Group,16.Cotton Carded Or Combed,M.T,0,0,0,5,2,7
+2025-01,Textile Group,17.Yarn Other Than Cotton Yarn,M.T,1109,817,2933,660,588,2096
+2025-01,Textile Group,18.Knitwear,TH.DOZ,24253,130493,468314,19041,102331,365050
+2025-01,Textile Group,19.Bed Wear,M.T,46897,80442,288691,41567,70662,252076
+2025-01,Textile Group,20.Towels,M.T,22534,28413,101970,19975,26930,96070
+2025-01,Textile Group,"21.Tents,Canvas & Tarpulin",M.T,5384,4675,16778,3147,2612,9317
+2025-01,Textile Group,22.Readymade Garments,TH.DOZ,7014,110618,396985,6717,93462,333411
+2025-01,Textile Group,"23.Art,Silk & Synthetic Textile",M.T,7988,10384,37265,7345,9107,32486
+2025-01,Textile Group,24.Madeup Articles(Excl.Towels & Bedwear.,-,-,20749,74463,-,17358,61923
+2025-01,Textile Group,25.Other Textile Materials,-,-,19043,68343,-,16681,59506
+2025-01,Petroleum  & Coal Group,26.Petroleum Crude,M.T,0,0,0,0,0,0
+2025-01,Petroleum  & Coal Group,27.Petroleum Products(Excl Top Naphta),M.T,119659,15552,55815,163979,19362,69069
+2025-01,Petroleum  & Coal Group,28.Petroleum Top Naphta,M.T,17444,3220,11557,0,0,0
+2025-01,Petroleum  & Coal Group,29.Solid Fuels (Coal),M.T,0,0,0,0,0,0
+2025-01,Other Manufactures Group,"30.Carpets, Rugs & Mats",TH.SQM,169,951,3414,105,889,3172
+2025-01,Other Manufactures Group,31.Sports Goods,-,,8736,31351,-,8605,30696
+2025-01,Other Manufactures Group,A) Footballs,TH.DOZ,285,4840,17372,346,5447,19433
+2025-01,Other Manufactures Group,B) Gloves,TH.DOZ,74,1542,5535,53,1094,3902
+2025-01,Other Manufactures Group,C) Others,-,-,2353,8444,-,2064,7361
+2025-01,Other Manufactures Group,32.Leather Tanned,M.T,670,3146,11292,543,2749,9805
+2025-01,Other Manufactures Group,33.Leather Manufactures,-,-,13804,49541,,12963,46245
+2025-01,Other Manufactures Group,A) Leather Garments,TH.DOZ,138,5666,20334,191,6234,22240
+2025-01,Other Manufactures Group,B) Leather Gloves,TH.DOZ,880,7815,28045,785,6379,22758
+2025-01,Other Manufactures Group,C) Other Leather Manufactures,-,-,324,1162,,350,1247
+2025-01,Other Manufactures Group,34.Footwear,TH.Pairs,2878,5211,18701,2525,4934,17601
+2025-01,Other Manufactures Group,A) Leather Footwear,TH.Pairs,1058,3930,14106,1014,3764,13429
+2025-01,Other Manufactures Group,B) Canvas Footwear,TH.Pairs,7,30,109,9,52,185
+2025-01,Other Manufactures Group,C) Other Footwear,TH.Pairs,1813,1250,4486,1502,1118,3987
+2025-01,Other Manufactures Group,35.Surgical Goods & Medical Instruments,-,-,11187,40149,,10562,37678
+2025-01,Other Manufactures Group,36.Cutlery,-,-,1493,5357,,1303,4650
+2025-01,Other Manufactures Group,37.Onyx Manufactured,M.T,87,78,281,124,113,405
+2025-01,Other Manufactures Group,38.Chemicals And Pharm.Products,-,,37887,135968,,27512,98144
+2025-01,Other Manufactures Group,A) Fertilizer Manufactured,M.T,0,0,0,0,0,0
+2025-01,Other Manufactures Group,B) Plastic Materials,M.T,31621,10055,36085,35429,10171,36283
+2025-01,Other Manufactures Group,C) Pharmaceutical Products,M.T,13770,15300,54908,4094,5930,21153
+2025-01,Other Manufactures Group,D) Other Chemicals,-,-,12532,44975,-,11411,40708
+2025-01,Other Manufactures Group,39.Engineering Goods,-,-,8204,29441,-,7088,25284
+2025-01,Other Manufactures Group,A) Electric Fans,TH.NOS,112,702,2520,150,704,2511
+2025-01,Other Manufactures Group,B) Transport Equipment,-,-,526,1887,-,88,312
+2025-01,Other Manufactures Group,C) Other Electrical Machinery,-,-,1066,3825,-,658,2349
+2025-01,Other Manufactures Group,D) Machinery Specialized For,,,,,,,
+2025-01,Particular Industries Group,E) Auto Parts & Accessories,-,-,639,2292,-,663,2364
+2025-01,Particular Industries Group,F) Rubber Tyres & Tubes,TH.NOS,1421,2639,9473,1042,1670,5957
+2025-01,Particular Industries Group,G) Other Machinery,-,-,1725,6190,-,2251,8032
+2025-01,Particular Industries Group,40.Gems,K.G,180,361,1296,97,214,763
+2025-01,Particular Industries Group,41.Jewellary,-,-,162,583,-,108,385
+2025-01,Particular Industries Group,42.Furniture,TH.NOS,67,148,531,150,224,799
+2025-01,Particular Industries Group,43.Molasses,M.T,7819,286,1026,18405,898,3202
+2025-01,Particular Industries Group,44.Handicrafts,-,-,0,0,-,0,0
+2025-01,Particular Industries Group,45.Cement,M.T,581574,5745,20619,390572,4129,14728
+2025-01,Particular Industries Group,46.Guar And Guar Products,M.T,1685,851,3055,2704,1190,4244
+Month,Group,Commodity,Unit,Quantity_2025,Rupees_2025,Dollar_2025,Quantity_2024,Rupees_2024,Dollars_2024
+2025-02,Food Group,1.Rice,M.T,514082,80709,288963,609463,112248,402062
+2025-02,Food Group,A) Basmati,M.T,83254,24682,88368,73067,23047,82553
+2025-02,Food Group,B) Others,M.T,430828,56027,200595,536396,89201,319510
+2025-02,Food Group,2.Fish & Fish Preparations,M.T,15895,8747,31315,17716,8996,32222
+2025-02,Food Group,3.Fruits,M.T,57791,7429,26597,133110,9883,35400
+2025-02,Food Group,4.Vegetables,M.T,268135,17398,62289,171599,21038,75358
+2025-02,Food Group,5.Leguminous Vegetables (Pulses),M.T,0,0,0,0,0,0
+2025-02,Food Group,6.Tobacco,M.T,6072,6240,22343,1107,1154,4132
+2025-02,Food Group,7.Wheat,M.T,0,0,0,0,0,0
+2025-02,Food Group,8.Spices,M.T,1711,1630,5838,3339,3131,11213
+2025-02,Food Group,"9.Oil Seeds, Nuts And Kernals",M.T,18982,5150,18439,3412,1442,5164
+2025-02,Food Group,10.Sugar,M.T,180,25,90,0,0,0
+2025-02,Food Group,11.Meat And Meat Preparations,M.T,9725,12331,44148,10386,12579,45058
+2025-02,Food Group,12.All Other Food Items,-,-,16753,59981,-,25393,90955
+2025-02,Textile Group,13.Raw Cotton,M.T,101,71,255,0,0,0
+2025-02,Textile Group,14.Cotton Yarn,M.T,19679,14363,51424,30057,21911,78482
+2025-02,Textile Group,15.Cotton Cloth,M.T,28503,41548,148757,34535,48438,173500
+2025-02,Textile Group,16.Cotton Carded Or Combed,M.T,0,0,0,40,16,59
+2025-02,Textile Group,17.Yarn Other Than Cotton Yarn,M.T,966,774,2772,1179,716,2566
+2025-02,Textile Group,18.Knitwear,TH.DOZ,20642,102098,365545,22988,93795,335963
+2025-02,Textile Group,19.Bed Wear,M.T,41275,69716,249607,41649,68071,243823
+2025-02,Textile Group,20.Towels,M.T,20536,27195,97367,19969,26394,94542
+2025-02,Textile Group,"21.Tents,Canvas & Tarpulin",M.T,2364,2190,7842,2079,1905,6823
+2025-02,Textile Group,22.Readymade Garments,TH.DOZ,6555,91934,329152,6653,85709,306999
+2025-02,Textile Group,"23.Art,Silk & Synthetic Textile",M.T,7417,9504,34027,7736,9392,33639
+2025-02,Textile Group,24.Madeup Articles(Excl.Towels & Bedwear,-,-,17590,62977,-,17346,62133
+2025-02,Textile Group,25.Other Textile Materials,-,-,17746,63537,-,19145,68577
+2025-02,Petroleum  & Coal Group,26.Petroleum Crude,M.T,0,0,0,0,0,0
+2025-02,Petroleum  & Coal Group,27.Petroleum Products(Excl Top Naphta),M.T,39845,5340,19118,62,11,40
+2025-02,Petroleum  & Coal Group,28.Petroleum Top Naphta,M.T,0,0,0,0,0,0
+2025-02,Petroleum  & Coal Group,29.Solid Fuels (Coal),M.T,0,0,0,0,0,0
+2025-02,Other Manufactures Group,"30.Carpets, Rugs & Mats",TH.SQM,271,1275,4565,296,1484,5317
+2025-02,Other Manufactures Group,31.Sports Goods,-,-,8712,31191,-,8803,31532
+2025-02,Other Manufactures Group,A) Footballs,TH.DOZ,306,5104,18274,368,5655,20254
+2025-02,Other Manufactures Group,B) Gloves,TH.DOZ,73,1462,5235,81,1271,4551
+2025-02,Other Manufactures Group,C) Others,-,-,2146,7682,-,1878,6727
+2025-02,Other Manufactures Group,32.Leather Tanned,M.T,655,3035,10868,780,3097,11094
+2025-02,Other Manufactures Group,33.Leather Manufactures,-,-,12177,43599,,11603,41559
+2025-02,Other Manufactures Group,A) Leather Garments,TH.DOZ,122,4679,16754,139,5194,18606
+2025-02,Other Manufactures Group,B) Leather Gloves,TH.DOZ,800,7158,25629,723,6180,22135
+2025-02,Other Manufactures Group,C) Other Leather Manufactures,-,-,340,1216,-,228,818
+2025-02,Other Manufactures Group,34.Footwear,TH.Pairs,2521,4743,16981,1951,4249,15220
+2025-02,Other Manufactures Group,A) Leather Footwear,TH.Pairs,937,3439,12313,849,3238,11598
+2025-02,Other Manufactures Group,B) Canvas Footwear,TH.Pairs,7,37,133,7,32,113
+2025-02,Other Manufactures Group,C) Other Footwear,TH.Pairs,1577,1267,4535,1095,979,3508
+2025-02,Other Manufactures Group,35.Surgical Goods & Medical Instruments,-,-,10091,36130,-,8328,29832
+2025-02,Other Manufactures Group,36.Cutlery,-,-,1377,4931,-,1442,5167
+2025-02,Other Manufactures Group,37.Onyx Manufactured,M.T,124,108,388,104,119,426
+2025-02,Other Manufactures Group,38.Chemicals And Pharm.Products,-,-,34417,123225,-,32569,116660
+2025-02,Other Manufactures Group,A) Fertilizer Manufactured,M.T,0,0,0,0,0,0
+2025-02,Other Manufactures Group,B) Plastic Materials,M.T,23176,7475,26762,36219,11347,40645
+2025-02,Other Manufactures Group,C) Pharmaceutical Products,M.T,5780,7760,27784,5296,8271,29625
+2025-02,Other Manufactures Group,D) Other Chemicals,-,-,19182,68679,-,12951,46390
+2025-02,Other Manufactures Group,39.Engineering Goods,-,-,7139,25558,-,9330,33418
+2025-02,Other Manufactures Group,A) Electric Fans,TH.NOS,101,698,2499,181,835,2990
+2025-02,Other Manufactures Group,B) Transport Equipment,-,-,678,2429,-,631,2261
+2025-02,Other Manufactures Group,C) Other Electrical Machinery,-,-,1308,4682,-,831,2976
+2025-02,Other Manufactures Group,D) Machinery Specialized For,,,,,,,
+2025-02,Particular Industries Group,E) Auto Parts & Accessories,-,-,443,1588,-,557,1994
+2025-02,Particular Industries Group,F) Rubber Tyres & Tubes,TH.NOS,746,1535,5495,1302,2004,7178
+2025-02,Particular Industries Group,G) Other Machinery,-,-,1717,6149,-,1852,6632
+2025-02,Particular Industries Group,40.Gems,K.G,18,48,170,123,283,1014
+2025-02,Particular Industries Group,41.Jewellary,-,-,101,361,-,94,335
+2025-02,Particular Industries Group,42.Furniture,TH.NOS,209,183,654,131,182,652
+2025-02,Particular Industries Group,43.Molasses,M.T,1464,41,146,13655,703,2520
+2025-02,Particular Industries Group,44.Handicrafts,-,-,4,15,-,0,0
+2025-02,Particular Industries Group,45.Cement,M.T,588173,5578,19972,349534,3698,13247
+2025-02,Particular Industries Group,46.Guar And Guar Products,M.T,1415,720,2577,3668,1501,5376
+Month,Group,Commodity,Unit,Quantity_2025,Rupees_2025,Dollar_2025,Quantity_2024,Rupees_2024,Dollars_2024
+2025-03,Food Group,1.Rice,M.T,512676,76837,274335,624300,115217,413403
+2025-03,Food Group,A) Basmati,M.T,75994,21567,77002,72922,23118,82948
+2025-03,Food Group,B) Others,M.T,436683,55270,197333,551378,92099,330455
+2025-03,Food Group,2.Fish & Fish Preparations,M.T,25730,16614,59317,18709,10294,36936
+2025-03,Food Group,3.Fruits,M.T,34438,4348,15525,66691,5471,19629
+2025-03,Food Group,4.Vegetables,M.T,257569,14849,53018,192884,17044,61156
+2025-03,Food Group,5.Leguminous Vegetables (Pulses),M.T,0,0,0,72,18,66
+2025-03,Food Group,6.Tobacco,M.T,4456,5461,19499,382,256,919
+2025-03,Food Group,7.Wheat,M.T,0,0,0,0,0,0
+2025-03,Food Group,8.Spices,M.T,2445,2582,9218,2549,2477,8889
+2025-03,Food Group,"9.Oil Seeds, Nuts And Kernals",M.T,14669,4865,17368,4715,1716,6158
+2025-03,Food Group,10.Sugar,M.T,0,0,0,0,0,0
+2025-03,Food Group,11.Meat And Meat Preparations,M.T,11695,14697,52473,13205,15381,55186
+2025-03,Food Group,12.All Other Food Items,-,-,21125,75424,-,24803,88993
+2025-03,Textile Group,13.Raw Cotton,M.T,0,0,0,175,93,334
+2025-03,Textile Group,14.Cotton Yarn,M.T,21688,15888,56727,15185,12124,43501
+2025-03,Textile Group,15.Cotton Cloth,M.T,27247,40898,146019,31498,45426,162989
+2025-03,Textile Group,16.Cotton Carded Or Combed,M.T,0,0,0,56,27,98
+2025-03,Textile Group,17.Yarn Other Than Cotton Yarn,M.T,745,648,2315,832,666,2389
+2025-03,Textile Group,18.Knitwear,TH.DOZ,24781,108096,385942,21578,93849,336733
+2025-03,Textile Group,19.Bed Wear,M.T,42211,71633,255757,37167,59994,215259
+2025-03,Textile Group,20.Towels,M.T,18073,25039,89398,19989,25935,93054
+2025-03,Textile Group,"21.Tents,Canvas & Tarpulin",M.T,2655,2732,9754,3096,3144,11280
+2025-03,Textile Group,22.Readymade Garments,TH.DOZ,6421,89987,321287,6325,80052,287228
+2025-03,Textile Group,"23.Art,Silk & Synthetic Textile",M.T,6973,9269,33093,7075,8444,30298
+2025-03,Textile Group,24.Madeup Articles(Excl.Towels & Bedwear.,-,-,18161,64842,-,16372,58742
+2025-03,Textile Group,25.Other Textile Materials,-,-,18159,64834,-,16272,58383
+2025-03,Petroleum  & Coal Group,26.Petroleum Crude,M.T,0,0,0,0,0,0
+2025-03,Petroleum  & Coal Group,27.Petroleum Products(Excl Top Naphta),M.T,131535,17024,60782,4464,458,1642
+2025-03,Petroleum  & Coal Group,28.Petroleum Top Naphta,M.T,9206,2004,7156,19258,4040,14497
+2025-03,Petroleum  & Coal Group,29.Solid Fuels (Coal),M.T,0,0,0,0,0,0
+2025-03,Other Manufactures Group,"30.Carpets, Rugs & Mats",TH.SQM,257,1143,4081,221,1022,3668
+2025-03,Other Manufactures Group,31.Sports Goods,-,-,9188,32805,-,9870,35415
+2025-03,Other Manufactures Group,A) Footballs,TH.DOZ,344,5696,20335,450,6780,24327
+2025-03,Other Manufactures Group,B) Gloves,TH.DOZ,70,1340,4784,54,1057,3794
+2025-03,Other Manufactures Group,C) Others,-,-,2153,7686,-,2033,7294
+2025-03,Other Manufactures Group,32.Leather Tanned,M.T,833,3522,12575,978,3453,12389
+2025-03,Other Manufactures Group,33.Leather Manufactures,-,,12594,44963,-,10700,38392
+2025-03,Other Manufactures Group,A) Leather Garments,TH.DOZ,143,4635,16550,127,3960,14209
+2025-03,Other Manufactures Group,B) Leather Gloves,TH.DOZ,890,7578,27056,737,6419,23031
+2025-03,Other Manufactures Group,C) Other Leather Manufactures,-,-,380,1357,-,321,1152
+2025-03,Other Manufactures Group,34.Footwear,TH.Pairs,1534,3617,12913,2193,3735,13401
+2025-03,Other Manufactures Group,A) Leather Footwear,TH.Pairs,756,2795,9979,604,2379,8537
+2025-03,Other Manufactures Group,B) Canvas Footwear,TH.Pairs,3,17,60,20,87,311
+2025-03,Other Manufactures Group,C) Other Footwear,TH.Pairs,775,805,2874,1569,1269,4553
+2025-03,Other Manufactures Group,35.Surgical Goods & Medical Instruments,-,-,10697,38193,-,11205,40202
+2025-03,Other Manufactures Group,36.Cutlery,-,-,1287,4595,-,1592,5713
+2025-03,Other Manufactures Group,37.Onyx Manufactured,M.T,111,117,417,114,96,345
+2025-03,Other Manufactures Group,38.Chemicals And Pharm.Products,-,,37194,132795,-,37416,134250
+2025-03,Other Manufactures Group,A) Fertilizer Manufactured,M.T,0,0,0,0,0,0
+2025-03,Other Manufactures Group,B) Plastic Materials,M.T,39301,11718,41836,33723,10118,36302
+2025-03,Other Manufactures Group,C) Pharmaceutical Products,M.T,8018,10033,35821,10835,10612,38077
+2025-03,Other Manufactures Group,D) Other Chemicals,-,-,15443,55138,-,16686,59871
+2025-03,Other Manufactures Group,39.Engineering Goods,-,-,10738,38337,-,9142,32804
+2025-03,Other Manufactures Group,A) Electric Fans,TH.NOS,198,1252,4470,249,1089,3908
+2025-03,Other Manufactures Group,B) Transport Equipment,-,-,1208,4313,-,710,2547
+2025-03,Other Manufactures Group,C) Other Electrical Machinery,-,-,1243,4440,-,1728,6200
+2025-03,Other Manufactures Group,D) Machinery Specialized For,,,,,,,
+2025-03,Particular Industries Group,E) Auto Parts & Accessories,-,-,551,1967,-,614,2204
+2025-03,Particular Industries Group,F) Rubber Tyres & Tubes,TH.NOS,2228,2729,9742,1760,2299,8248
+2025-03,Particular Industries Group,G) Other Machinery,-,-,2586,9233,-,1825,6549
+2025-03,Particular Industries Group,40.Gems,K.G,28,51,181,34,77,277
+2025-03,Particular Industries Group,41.Jewellary,-,-,276,986,-,268,962
+2025-03,Particular Industries Group,42.Furniture,TH.NOS,69,115,411,107,150,540
+2025-03,Particular Industries Group,43.Molasses,M.T,9183,340,1215,51610,2630,9438
+2025-03,Particular Industries Group,44.Handicrafts,-,-,0,0,-,0,0
+2025-03,Particular Industries Group,45.Cement,M.T,627552,6163,22004,391957,4340,15572
+2025-03,Particular Industries Group,46.Guar And Guar Products,M.T,1106,541,1933,2466,1102,3953
+Month,Group,Commodity,Unit,Quantity_2025,Rupees_2025,Dollar_2025,Quantity_2024,Rupees_2024,Dollars_2024
+2025-04,Food Group,1.Rice, M.T,407329.4842004545,57910.19600455858,206296,529847,97815.88726599999,351675.468
+2025-04,Food Group,A) Basmati, M.T,43895.037527,12840.07908969269,45741,66903,21378.195805,76860.593
+2025-04,Food Group,B) Others, M.T,363434.4466734545,45070.11691486589,160555,462944,76437.691461,274814.875
+2025-04,Food Group,2.Fish & Fish Preparations, M.T,20358.499470000002,13470.049375913704,47985,20571.211,12123.042677,43585.749
+2025-04,Food Group,3.Fruits, M.T,16227.577308,1713.1666539864993,6103,23471.794,2319.520939,8339.339
+2025-04,Food Group,4.Vegetables, M.T,198875.30581285682,11404.293419208203,40626,126257.898,9097.321291,32707.414
+2025-04,Food Group,5.Leguminous Vegetables  (Pulses), M.T,0,0,0,0,0,0
+2025-04,Food Group,6.Tobacco, M.T,1892.172,1988.4203852943997,7083,270.875,220.226456,791.777
+2025-04,Food Group,7.Wheat, M.T,0,0,0,0,0,0
+2025-04,Food Group,8.Spices, M.T,1876.3221360000002,1880.795208919401,6700,1995.97,1891.705812,6801.206
+2025-04,Food Group,"9.Oil Seeds, Nuts And Kernals", M.T,4867.7081292,1803.3920309617006,6424,4072.142,1491.065274,5360.798
+2025-04,Food Group,10.Sugar, M.T,0,0,0,0,0,0
+2025-04,Food Group,11.Meat And Meat Preparations, M.T,7812.197847700001,9835.749234342305,35038,10847.095,12210.766493,43901.156
+2025-04,Food Group,12.All Other Food Items,    -,-,16315.653819320105,58122,-,21663.548163,77886.51
+2025-04,Textile Group,13.Raw Cotton, M.T,0,0,0,0,0,0
+2025-04,Textile Group,14.Cotton Yarn, M.T,14006.947743199993,10564.781759702599,37635,19526.922,15051.655163,54114.91
+2025-04,Textile Group,15.Cotton Cloth, M.T,23357.67888879998,35474.003358021866,126371,25200.88,37555.537576,135022.639
+2025-04,Textile Group,16.Cotton Carded Or Combed, M.T,0,0,0,44,23.683923,85.15
+2025-04,Textile Group,17.Yarn Other Than Cotton Yarn, M.T,847.9385979000001,606.5857189958,2161,774.796,598.996641,2153.556
+2025-04,Textile Group,18.Knitwear,TH.DOZ,20643.0630136,93448.3034827236,332895,20125.451,90772.410897,326352.33
+2025-04,Textile Group,19.Bed Wear, M.T,32331.164495500005,54921.64756931671,195650,34593.336,56331.892917,202528.913
+2025-04,Textile Group,20.Towels, M.T,17437.557306600043,23747.846719978512,84598,16701.373,22459.447542,80747.995
+2025-04,Textile Group,"21.Tents,Canvas & Tarpulin", M.T,2248.0781645000006,2209.2611643947002,7870,2572.845,2579.241248,9273.093
+2025-04,Textile Group,22.Readymade Garments,TH.DOZ,5941,84968.38714211553,302687,6197.142,81019.639553,291288.222
+2025-04,Textile Group,"23.Art,Silk & Synthetic Textile", M.T,5834.219458899998,7563.310354343202,26943,6388.272,7742.356797,27835.946
+2025-04,Textile Group,24.Madeup Articles(Excl.Towels & Bedwear.),   -,-,15301.985075409997,54511,-,14842.617451,53363.344
+2025-04,Textile Group,25.Other Textile Materials,   -,-,13848.842823241703,49334,-,15171.843695,54547.081
+2025-04,Petroleum  & Coal Group,26.Petroleum Crude, M.T,0,0,0,0,0,0
+2025-04,Petroleum  & Coal Group,27.Petroleum Products(Excl Top Naphta), M.T,105514.923,12811.048296289602,45637,55088,7096.128683,25512.566
+2025-04,Petroleum  & Coal Group,28.Petroleum Top Naphta, M.T,28488.757,5702.127367923101,20313,0,0,0
+2025-04,Petroleum  & Coal Group,29.Solid Fuels (Coal), M.T,0,0,0,0,0,0
+2025-04,Other Manufactures Group,"30.Carpets, Rugs & Mats",TH.SQM,116.51187670000002,724.0938129526,2579,163.978,1437.760996,5169.149
+2025-04,Other Manufactures Group,31.Sports Goods,   -,-,8173.881301821296,29119,-,10499.559911,37748.828
+2025-04,Other Manufactures Group,A)  Footballs,TH.DOZ,300,4918.054729313198,17520,511.227,7310.036813,26281.628
+2025-04,Other Manufactures Group,B)  Gloves,TH.DOZ,67,1332.7768588387987,4748,64.105,1247.373547,4484.639
+2025-04,Other Manufactures Group,C)  Others,   -,-,1923.0497136692995,6851,-,1942.149551,6982.561
+2025-04,Other Manufactures Group,32.Leather Tanned, M.T,714.1626382000001,3094.1664067090983,11022,990.226,3469.714588,12474.586
+2025-04,Other Manufactures Group,33.Leather Manufactures,    -,,9984.449958181303,35567,,11700.419243000002,42066.301999999996
+2025-04,Other Manufactures Group,A) Leather Garments, TH.DOZ,127,4143.171174410806,14759,167.361,4429.121102,15923.955
+2025-04,Other Manufactures Group,B) Leather Gloves, TH.DOZ,601,5585.708061917497,19898,775.156,6972.035238,25066.414
+2025-04,Other Manufactures Group,C) Other Leather Manufactures,    -,-,255.57072185300012,910,-,299.262903,1075.933
+2025-04,Other Manufactures Group,34.Footwear,TH.Pairs,1134.8760101,2570.1466585022,9155,1315.514,2759.8107,9922.302
+2025-04,Other Manufactures Group,A) Leather Footwear,TH.Pairs,452.5210101,2011.378083503,7165,472.491,1968.442009,7077.099
+2025-04,Other Manufactures Group,B) Canvas Footwear,TH.Pairs,0.839,4.808555749799999,17,24.716,135.841311,488.387
+2025-04,Other Manufactures Group,C) Other Footwear,TH.Pairs,681.516,553.9600192494001,1973,818.307,655.52738,2356.816
+2025-04,Other Manufactures Group,35.Surgical Goods & Medical Instruments,    -,-,9823.33178370878,34994,-,9768.75862,35121.401
+2025-04,Other Manufactures Group,36.Cutlery,    -,-,1175.4905686892992,4188,-,1248.860748,4489.992
+2025-04,Other Manufactures Group,37.Onyx Manufactured,   M.T,81,75.15706331589995,268,118.275,105.645831,379.823
+2025-04,Other Manufactures Group,38.Chemicals And Pharm.Products,    -,,38958.52969897751,138784,,31360.559732,112750.00399999999
+2025-04,Other Manufactures Group,A) Fertilizer Manufactured,   M.T,0,0,0,0,0,0
+2025-04,Other Manufactures Group,B) Plastic Materials,   M.T,38070.9566209,11321.894222727498,40333,26611.946,8428.989568,30304.585
+2025-04,Other Manufactures Group,C) Pharmaceutical Products,   M.T,6314.84188178311,10244.4055029076,36494,7356.649,8264.550656,29713.361
+2025-04,Other Manufactures Group,D) Other Chemicals,    -,-,17392.229973342404,61957,-,14667.019508,52732.058
+2025-04,Other Manufactures Group,39.Engineering Goods,    -,-,7333.8056904867,26126,-,7863.386563,28271.072
+2025-04,Other Manufactures Group,A) Electric Fans,TH.NOS,115,727.8172860519999,2593,217.723,1041.229254,3743.507
+2025-04,Other Manufactures Group,B) Transport Equipment,    -,-,1010.0302376955999,3598,-,748.89594,2692.491
+2025-04,Other Manufactures Group,C) Other Electrical Machinery,    -,-,735.9710165681001,2622,-,1074.632823,3863.609
+2025-04,Other Manufactures Group,D) Machinery Specialized For,,,,,,,
+2025-04,Particular Industries Group,E) Auto Parts & Accessories,    -,-,444.1448320567001,1582,-,511.954213,1840.615
+2025-04,Particular Industries Group,F) Rubber Tyres & Tubes,TH.NOS,1328.8268,1597.4540991289002,5691,1715.134,2245.241517,8072.272
+2025-04,Particular Industries Group,G) Other Machinery,    -,-,1736.5278619756998,6186,-,1622.55958,5833.558
+2025-04,Particular Industries Group,40.Gems,K.G,91,358.6294274500001,1278,27,51.193571,184.056
+2025-04,Particular Industries Group,41.Jewellary,    -,-,157.2500068889,560,-,18.473194,66.418
+2025-04,Particular Industries Group,42.Furniture,TH.NOS,98.33818,144.53097134729998,515,77,96.462974,346.808
+2025-04,Particular Industries Group,43.Molasses,   M.T,5415.448,202.0896340125,720,42659,2099.065267,7546.727
+2025-04,Particular Industries Group,44.Handicrafts,    -,-,29.4105,105,-,0,0
+2025-04,Particular Industries Group,45.Cement,   M.T,643830.6,6637.164850521702,23644,664808,6974.150996,25074.001
+2025-04,Particular Industries Group,46.Guar And Guar Products,   M.T,915.4045,502.01705882690004,1788,1707,800.593735,2878.359
+Month,Group,Commodity,Unit,Quantity_2025,Rupees_2025,Dollar_2025,Quantity_2024,Rupees_2024,Dollars_2024
+2025-06,Food Group,1.Rice, M.T,272752.1863705,42395.5301195113,149807,433739,84581.477865,303770.522
+2025-06,Food Group,A) Basmati, M.T,47516.4761635,13763.745110498716,48635,94895,28705.393874,103094.121
+2025-06,Food Group,B) Others, M.T,225235.71020700003,28631.785009012583,101172,338844,55876.083991,200676.401
+2025-06,Food Group,2.Fish & Fish Preparations, M.T,17637.542513300003,10762.823150237402,38031,14718.352,8644.013723,31044.605
+2025-06,Food Group,3.Fruits, M.T,42310.4642017,10350.64774832021,36575,70450.047,13570.721151,48738.692
+2025-06,Food Group,4.Vegetables, M.T,51140.67141350001,4105.768003485298,14508,68874.678,5760.747185,20689.464
+2025-06,Food Group,5.Leguminous Vegetables  (Pulses), M.T,0,0,0,0,0,0
+2025-06,Food Group,6.Tobacco, M.T,2338.266,2259.6836732461006,7985,681.158,550.438642,1976.873
+2025-06,Food Group,7.Wheat, M.T,0,0,0,0,0,0
+2025-06,Food Group,8.Spices, M.T,2301.082376499997,2408.973772194096,8512,2703.276,2012.110082,7226.42
+2025-06,Food Group,"9.Oil Seeds, Nuts And Kernals", M.T,7766.2195324,2349.617485448899,8303,5550.811,2302.947371,8270.928
+2025-06,Food Group,10.Sugar, M.T,0,0,0,0,0,0
+2025-06,Food Group,11.Meat And Meat Preparations, M.T,6212.6896587,8065.994045221903,28502,7953.409,10030.221692,36023.101
+2025-06,Food Group,12.All Other Food Items,    -,,21357.04739340501,75467,,24009.766496,86229.976
+2025-06,Textile Group,13.Raw Cotton, M.T,0,0,0,0,0,0
+2025-06,Textile Group,14.Cotton Yarn, M.T,24857.738659799994,17592.71471633108,62165,16318.537,12618.027225,45317.064
+2025-06,Textile Group,15.Cotton Cloth, M.T,22726.7594212,34720.7391570316,122688,25029.513,37625.5252,135130.403
+2025-06,Textile Group,16.Cotton Carded Or Combed, M.T,0,0,0,0,0,0
+2025-06,Textile Group,17.Yarn Other Than Cotton Yarn, M.T,1282.3403348000002,952.4898753091996,3366,605.899,451.208917,1620.496
+2025-06,Textile Group,18.Knitwear,TH.DOZ,24765,128799.71333157326,455122,22995.882,119052.980298,427573.309
+2025-06,Textile Group,19.Bed Wear, M.T,44401.65245589999,77355.39095862368,273340,39551.316,65289.671545,234484.947
+2025-06,Textile Group,20.Towels, M.T,18313.434901799963,24674.175559302977,87188,17807.959,24272.283686,87172.776
+2025-06,Textile Group,"21.Tents,Canvas & Tarpulin", M.T,2233.3349839999996,2009.5750898590998,7101,2696.05,2808.947705,10088.211
+2025-06,Textile Group,22.Readymade Garments,TH.DOZ,7100,101915.00686251304,360124,6315.194,90431.6600120001,324781.204
+2025-06,Textile Group,"23.Art,Silk & Synthetic Textile", M.T,7024.5459931999985,9567.489077078899,33807,6792.407,8738.312644,31383.29
+2025-06,Textile Group,24.Madeup Articles(Excl.Towels & Bedwear.),   -,-,17694.39688285961,62524,-,16598.162824,59611.559
+2025-06,Textile Group,25.Other Textile Materials,   -,-,15364.227719053097,54291,-,15941.512205,57253.303
+2025-06,Petroleum  & Coal Group,26.Petroleum Crude, M.T,39883.971,4970.4162455649,17563,64667,11950.310456,42918.996
+2025-06,Petroleum  & Coal Group,27.Petroleum Products(Excl Top Naphta), M.T,85583.483,10753.2197364416,37997,62410,8628.723191,30989.668
+2025-06,Petroleum  & Coal Group,28.Petroleum Top Naphta, M.T,9812.571,1772.0979234709,6262,0,0,0
+2025-06,Petroleum  & Coal Group,29.Solid Fuels (Coal), M.T,0,0,0,0,0,0
+2025-06,Other Manufactures Group,"30.Carpets, Rugs & Mats",TH.SQM,361.7035753999994,1982.4625260017003,7005,259.348,1297.27657,4659.116
+2025-06,Other Manufactures Group,31.Sports Goods,   -,-,10295.12490179901,36379,-,9454.068803,33953.854
+2025-06,Other Manufactures Group,A)  Footballs,TH.DOZ,366,6145.750748102112,21716,407.301,6009.746565,21583.716
+2025-06,Other Manufactures Group,B)  Gloves,TH.DOZ,85,1562.3027206711981,5521,66.371,1373.812953,4933.98
+2025-06,Other Manufactures Group,C)  Others,   -,-,2587.0714330257,9142,-,2070.509285,7436.158
+2025-06,Other Manufactures Group,32.Leather Tanned, M.T,617.2731797999998,3333.6022816835994,11780,590.845,2805.89998,10077.258
+2025-06,Other Manufactures Group,33.Leather Manufactures,    -,,14360.930908261,50745,,13857.353516000001,49768.058
+2025-06,Other Manufactures Group,A) Leather Garments, TH.DOZ,300,7029.706336040804,24840,159.105,6187.574004,22222.386
+2025-06,Other Manufactures Group,B) Leather Gloves, TH.DOZ,799,7032.524818292797,24850,817.387,7294.593407,26198.208
+2025-06,Other Manufactures Group,C) Other Leather Manufactures,    -,-,298.6997539274,1055,-,375.186105,1347.464
+2025-06,Other Manufactures Group,34.Footwear,TH.Pairs,1474.28295,4151.830414757698,14671,1648.837,4205.671102,15104.470000000001
+2025-06,Other Manufactures Group,A) Leather Footwear,TH.Pairs,732.63538,3405.5576429337984,12034,755.466,3371.488627,12108.538
+2025-06,Other Manufactures Group,B) Canvas Footwear,TH.Pairs,13.656,81.49288654520001,288,9.181,52.231064,187.584
+2025-06,Other Manufactures Group,C) Other Footwear,TH.Pairs,727.99157,664.7798852787004,2349,884.19,781.951411,2808.348
+2025-06,Other Manufactures Group,35.Surgical Goods & Medical Instruments,    -,-,10946.30131516348,38679,-,10307.812956,37020.071
+2025-06,Other Manufactures Group,36.Cutlery,    -,-,1305.0017675896004,4611,-,1324.805281,4757.982
+2025-06,Other Manufactures Group,37.Onyx Manufactured,   M.T,154,157.1787466546,555,105.353,67.301273,241.706
+2025-06,Other Manufactures Group,38.Chemicals And Pharm.Products,    -,-,33355.2055458861,117863,-,33548.563190999994,120488.208
+2025-06,Other Manufactures Group,A) Fertilizer Manufactured,   M.T,0,0,0,0,0,0
+2025-06,Other Manufactures Group,B) Plastic Materials,   M.T,23578.117090600004,7596.141538941999,26841,32221.333,10960.554085,39364.351
+2025-06,Other Manufactures Group,C) Pharmaceutical Products,   M.T,6417.473862400002,8404.2215262747,29697,7625.304,8110.323123,29127.873
+2025-06,Other Manufactures Group,D) Other Chemicals,    -,-,17354.842480669406,61325,-,14477.685983,51995.984
+2025-06,Other Manufactures Group,39.Engineering Goods,    -,-,9698.0369951182,34270,-,8725.613439,31337.688000000002
+2025-06,Other Manufactures Group,A) Electric Fans,TH.NOS,128,846.8803415241999,2993,212.3,1027.835478,3691.427
+2025-06,Other Manufactures Group,B) Transport Equipment,    -,-,487.5857637021001,1723,-,424.897932,1526.003
+2025-06,Other Manufactures Group,C) Other Electrical Machinery,    -,-,2096.6471966228996,7409,-,1402.824625,5038.185
+2025-06,Other Manufactures Group,D) Machinery Specialized For,,,,,,,
+2025-06,Particular Industries Group,E) Auto Parts & Accessories,    -,-,524.0274310046,1852,-,500.229987,1796.567
+2025-06,Particular Industries Group,F) Rubber Tyres & Tubes,TH.NOS,1816.073,2534.072640209301,8954,1376.6,1881.162623,6756.109
+2025-06,Particular Industries Group,G) Other Machinery,    -,-,1824.9431764631,6449,-,2430.559469,8729.26
+2025-06,Particular Industries Group,40.Gems,K.G,1,1.879796925,7,92.478,165.41747,594.093
+2025-06,Particular Industries Group,41.Jewellary,    -,-,7.750556144099998,27,-,800.570206,2875.208
+2025-06,Particular Industries Group,42.Furniture,TH.NOS,117.5574,190.50760055350003,673,93.21,156.471883,561.989
+2025-06,Particular Industries Group,43.Molasses,   M.T,1665.8,51.999122862499995,184,24808.397,1232.162929,4425.255
+2025-06,Particular Industries Group,44.Handicrafts,    -,-,46.8565,166,-,0,0
+2025-06,Particular Industries Group,45.Cement,   M.T,1106009.906,11843.074670147405,41848,905801,8274.922364,29719.021
+2025-06,Particular Industries Group,46.Guar And Guar Products,   M.T,819.99,486.8434042395,1720,1223.643,631.396765,2267.635
+Month,Group,Commodity,Unit,Quantity_2025,Rupees_2025,Dollar_2025,Quantity_2024,Rupees_2024,Dollars_2024
+2025-07,Food Group,1.Rice, M.T,291901.50602639996,47694.674623673636,168109.90713516576,270002,57278,205745
+2025-07,Food Group,A) Basmati, M.T,52339.358858600004,15823.612926366404,55759.53782931919,91370,25760,92531
+2025-07,Food Group,B) Others, M.T,239562.14716779994,31871.061697307236,112350.36930584657,178632,31518,113214
+2025-07,Food Group,2.Fish & Fish Preparations, M.T,11781.962710000002,6379.6512401480995,22447.669518582195,9713,5269,18928
+2025-07,Food Group,3.Fruits, M.T,59981.0800686,16469.329154362913,57964.663805558914,52479,11235,40357
+2025-07,Food Group,4.Vegetables, M.T,60146.79994769999,4512.967688375397,15899.840553086378,85204,8041,28884
+2025-07,Food Group,5.Leguminous Vegetables  (Pulses), M.T,0,0,0,0,0,0
+2025-07,Food Group,6.Tobacco, M.T,866,1130.1238627624002,3989.8560403455167,180,125,450
+2025-07,Food Group,7.Wheat, M.T,0,0,0,0,0,0
+2025-07,Food Group,8.Spices, M.T,2044.7989383000001,1919.4468193273997,6753.143346384632,2042,1521,5462
+2025-07,Food Group,"9.Oil Seeds, Nuts And Kernals", M.T,3533.7466819,1196.2183644034997,4210.653494674405,5148,1611,5787
+2025-07,Food Group,10.Sugar, M.T,0,0,0,39158,6658,23916
+2025-07,Food Group,11.Meat And Meat Preparations, M.T,9031.209461100001,11496.245491758196,40460.58857880816,8408,10258,36849
+2025-07,Food Group,12.All Other Food Items,    -,-,30433.985944972606,107158.95062184743,-,30453,109388
+2025-07,Textile Group,13.Raw Cotton, M.T,0,0,0,0,0,0
+2025-07,Textile Group,14.Cotton Yarn, M.T,22536.369953099995,15930.585827383993,56070.252900875144,20431,15520,55750
+2025-07,Textile Group,15.Cotton Cloth, M.T,27893.519151200016,40281.24735714248,141822.5448895748,26424,39016,140148
+2025-07,Textile Group,16.Cotton Carded Or Combed, M.T,0,0,0,0,0,0
+2025-07,Textile Group,17.Yarn Other Than Cotton Yarn, M.T,1222.0756845000003,842.3504216141001,2965.4421473909506,943,711,2556
+2025-07,Textile Group,18.Knitwear,TH.DOZ,27649,145798.82791287496,513276.79488333594,18303,99575,357682
+2025-07,Textile Group,19.Bed Wear, M.T,49495.9288604,84179.61598550716,296354.15456579375,35246,59661,214305
+2025-07,Textile Group,20.Towels, M.T,19355.639765699987,26665.54107165264,93876.94593223541,14570,19513,70093
+2025-07,Textile Group,"21.Tents,Canvas & Tarpulin", M.T,2422.4913467999995,1926.9247085866,6783.374217418999,3086,3028,10877
+2025-07,Textile Group,22.Readymade Garments,TH.DOZ,7854,113682.94543479977,400251.5364821822,5737,82250,295449
+2025-07,Textile Group,"23.Art,Silk & Synthetic Textile", M.T,6627.365693,9416.412963469904,33149.657348616056,6179,7585,27245
+2025-07,Textile Group,24.Madeup Articles(Excl.Towels & Bedwear.),   -,-,19847.49377219131,69866.72841337507,-,13379,48058
+2025-07,Textile Group,25.Other Textile Materials,   -,-,18513.93574727721,65173.55403236099,-,13634,48973
+2025-07,Petroleum  & Coal Group,26.Petroleum Crude, M.T,0,0,0,0,0,0
+2025-07,Petroleum  & Coal Group,27.Petroleum Products(Excl Top Naphta), M.T,82760.25072999999,10674.864548365702,37821.80274591578,115451,16162,58056
+2025-07,Petroleum  & Coal Group,28.Petroleum Top Naphta, M.T,18326.882,3112.7622371582,10981.697784999824,8638,1567,5630
+2025-07,Petroleum  & Coal Group,29.Solid Fuels (Coal), M.T,0,0,0,0,0,0
+2025-07,Other Manufactures Group,"30.Carpets, Rugs & Mats",TH.SQM,215.71350300000014,1314.5278546616003,4630.455889352635,268,1620,5818
+2025-07,Other Manufactures Group,31.Sports Goods,   -,-,11048.369266372987,38900.72807568241,-,8173,29358
+2025-07,Other Manufactures Group,A)  Footballs,TH.DOZ,444,7304.730295705487,25720.045735022497,332,4949,17775
+2025-07,Other Manufactures Group,B)  Gloves,TH.DOZ,82,1428.0733550073,5028.826444019942,67,1282,4606
+2025-07,Other Manufactures Group,C)  Others,   -,-,2315.5656156602,8151.855896639972,-,1942,6977
+2025-07,Other Manufactures Group,32.Leather Tanned, M.T,754.6050786000001,2921.4424666549003,10283.017530513405,836,3276,11766
+2025-07,Other Manufactures Group,33.Leather Manufactures,    -,,15141.783243450707,53307.25036910689,-,11147,40043
+2025-07,Other Manufactures Group,A) Leather Garments, TH.DOZ,201,7170.194496778706,25243.060163607068,184,5762,20699
+2025-07,Other Manufactures Group,B) Leather Gloves, TH.DOZ,1144,7622.509404121903,26834.597152350005,627,5148,18492
+2025-07,Other Manufactures Group,C) Other Leather Manufactures,    -,-,349.07934255009997,1229.5930531498202,-,237,852
+2025-07,Other Manufactures Group,34.Footwear,TH.Pairs,1811.703,4997.3815492332005,17588.497048800516,1135,3283,11793
+2025-07,Other Manufactures Group,A) Leather Footwear,TH.Pairs,793.026,4189.4127477927,14744.273864982808,587,2631,9452
+2025-07,Other Manufactures Group,B) Canvas Footwear,TH.Pairs,17.837,100.0113675295,352.19782724976153,8,45,161
+2025-07,Other Manufactures Group,C) Other Footwear,TH.Pairs,1000.84,707.9574339110001,2492.0253565679463,540,607,2180
+2025-07,Other Manufactures Group,35.Surgical Goods & Medical Instruments,    -,-,10882.155607310633,38312.49487487456,-,8646,31058
+2025-07,Other Manufactures Group,36.Cutlery,    -,-,1223.5001224692,4306.615380399918,-,1168,4196
+2025-07,Other Manufactures Group,37.Onyx Manufactured,   M.T,189.7,126.60798053100002,445.65275860022894,106,65,232
+2025-07,Other Manufactures Group,38.Chemicals And Pharm.Products,    -,,29133.160773402706,102581.62979411741,-,37581,134992
+2025-07,Other Manufactures Group,A) Fertilizer Manufactured,   M.T,0,0,0,0,0,0
+2025-07,Other Manufactures Group,B) Plastic Materials,   M.T,21904.1572831,7110.814602874099,25047.87976572095,34999,11765,42259
+2025-07,Other Manufactures Group,C) Pharmaceutical Products,   M.T,6640.8959718999995,9556.141170327202,33637.776937296876,7908,9457,33971
+2025-07,Other Manufactures Group,D) Other Chemicals,    -,-,12466.205000201404,43895.973091099586,-,16359,58762
+2025-07,Other Manufactures Group,39.Engineering Goods,    -,,10657.429358079698,37523.90629503272,-,7827,28114
+2025-07,Other Manufactures Group,A) Electric Fans,TH.NOS,202.385,1021.6929490912,3597.866308931496,134,589,2116
+2025-07,Other Manufactures Group,B) Transport Equipment,    -,-,102.19796743559999,359.96084390012174,-,580,2084
+2025-07,Other Manufactures Group,C) Other Electrical Machinery,    -,-,2662.2015458197006,9370.811113967839,-,1070,3843
+2025-07,Other Manufactures Group,D) Machinery Specialized For,,,,,,,
+2025-07,Particular Industries Group,E) Auto Parts & Accessories,    -,-,569.8671203473999,2007.129780299961,-,481,1729
+2025-07,Particular Industries Group,F) Rubber Tyres & Tubes,TH.NOS,2188.326,2683.8069409039,9449.980369201829,1465,1699,6103
+2025-07,Particular Industries Group,G) Other Machinery,    -,-,2392.8136074351996,8421.98487760356,-,1954,7017
+2025-07,Particular Industries Group,40.Gems,K.G,110.93047399999998,145.24812671709992,510.85396757924724,121,223,801
+2025-07,Particular Industries Group,41.Jewellary,    -,-,4.7672079958,16.784687160824564,-,717,2576
+2025-07,Particular Industries Group,42.Furniture,TH.NOS,112.479,222.02397195319998,781.6940310675267,53,132,473
+2025-07,Particular Industries Group,43.Molasses,   M.T,1933.485,50.72352977919999,178.52690797676266,1583,46,167
+2025-07,Particular Industries Group,44.Handicrafts,    -,-,0,0,-,0,0
+2025-07,Particular Industries Group,45.Cement,   M.T,877086.379,9910.66527941482,34924.325601533325,403260,4034,14492
+2025-07,Particular Industries Group,46.Guar And Guar Products,   M.T,1167.2825,647.1679710965999,2277.6638298548514,1643,815,2929
+Month,Group,Commodity,Unit,Quantity_2025,Rupees_2025,Dollar_2025,Quantity_2024,Rupees_2024,Dollars_2024
+2025-08,Food Group,1.Rice, M.T,252237.45340680002,41388.268126687275,146278.18954654993,346742,72120,258922
+2025-08,Food Group,A) Basmati, M.T,49240.0353023,14574.33940070228,51534.2200562138,95303,27876,100079
+2025-08,Food Group,B) Others, M.T,202997.41810450002,26813.928725984995,94743.96949033611,251439,44244,158843
+2025-08,Food Group,2.Fish & Fish Preparations, M.T,10695.5976,6742.9115903331,23908.68685594951,7650,4506,16178
+2025-08,Food Group,3.Fruits, M.T,45464.028738099994,8910.575650292896,31543.342676097993,38154,8408,30185
+2025-08,Food Group,4.Vegetables, M.T,50997.767543500006,3779.321802663599,13386.540596264598,72777,6196,22244
+2025-08,Food Group,5.Leguminous Vegetables  (Pulses), M.T,0,0,0,0,0,0
+2025-08,Food Group,6.Tobacco, M.T,804.199,501.9154062576,1771.4471019266214,5249,5446,19553
+2025-08,Food Group,7.Wheat, M.T,0,0,0,0,0,0
+2025-08,Food Group,8.Spices, M.T,2313.7751813999994,1785.7264967801977,6310.2632213919105,2276,2215,7953
+2025-08,Food Group,"9.Oil Seeds, Nuts And Kernals", M.T,6996.6662400000005,1929.2830329831995,6829.532068783229,12279,5400,19385
+2025-08,Food Group,10.Sugar, M.T,0,0,0,46991,7956,28562
+2025-08,Food Group,11.Meat And Meat Preparations, M.T,8035.6342927000005,10287.481220141994,36438.36212743011,8906,10692,38385
+2025-08,Food Group,12.All Other Food Items,    -,-,22940.555635387904,81095.77356224542,-,26404,94793
+2025-08,Textile Group,13.Raw Cotton, M.T,0,0,0,0,0,0
+2025-08,Textile Group,14.Cotton Yarn, M.T,25542.555007099985,17852.785968267905,63125.93952729256,19845,15275,54838
+2025-08,Textile Group,15.Cotton Cloth, M.T,30244.291704200008,44517.05702106533,157475.245548039,33425,50840,182523
+2025-08,Textile Group,16.Cotton Carded Or Combed, M.T,0,0,0,0,0,0
+2025-08,Textile Group,17.Yarn Other Than Cotton Yarn, M.T,1175.0704784999998,840.8320807821001,2973.4050254944086,1204,946,3396
+2025-08,Textile Group,18.Knitwear,TH.DOZ,19825,125999.30035631025,445686.5739977071,21874,128937,462903
+2025-08,Textile Group,19.Bed Wear, M.T,44632.892221199974,76094.74340262644,269120.20380223676,48749,80901,290448
+2025-08,Textile Group,20.Towels, M.T,18307.14615689999,24100.47379535115,85224.07882765762,21048,28041,100673
+2025-08,Textile Group,"21.Tents,Canvas & Tarpulin", M.T,2882.0267064,2614.2581225563003,9244.227370372684,3544,2423,8700
+2025-08,Textile Group,22.Readymade Garments,TH.DOZ,5848.9706357,92764.59205455046,328054.317517825,7322,101112,363006
+2025-08,Textile Group,"23.Art,Silk & Synthetic Textile", M.T,6792.8111689,9330.0585657935,32998.524322864054,7255,9470,33999
+2025-08,Textile Group,24.Madeup Articles(Excl.Towels & Bedwear.),   -,-,18860.482461910306,66682.6122822232,-,19866,71322
+2025-08,Textile Group,25.Other Textile Materials,   -,-,17812.1135285134,62998.75560706442,-,20201,72525
+2025-08,Petroleum  & Coal Group,26.Petroleum Crude, M.T,0,0,0,0,0,0
+2025-08,Petroleum  & Coal Group,27.Petroleum Products(Excl Top Naphta), M.T,42947.921,5582.382488154699,19748.38603629998,55591,7343,26364
+2025-08,Petroleum  & Coal Group,28.Petroleum Top Naphta, M.T,0,0,0,0,0,0
+2025-08,Petroleum  & Coal Group,29.Solid Fuels (Coal), M.T,0,0,0,0,0,0
+2025-08,Other Manufactures Group,"30.Carpets, Rugs & Mats",TH.SQM,158.11166190000006,1049.4762439763997,3714.037494957459,212,1402,5032
+2025-08,Other Manufactures Group,31.Sports Goods,   -,-,10281.918003241,36335.70379068213,-,9087,32624
+2025-08,Other Manufactures Group,A)  Footballs,TH.DOZ,395,6499.1848662991,22963.816620374662,371,5832,20938
+2025-08,Other Manufactures Group,B)  Gloves,TH.DOZ,104,1545.9394059483998,5464.119855718721,69,1307,4693
+2025-08,Other Manufactures Group,C)  Others,   -,-,2236.7937309934996,7907.767314588747,-,1948,6993
+2025-08,Other Manufactures Group,32.Leather Tanned, M.T,639.1731084,3240.1177433023986,11465.188074924725,709,2836,10182
+2025-08,Other Manufactures Group,33.Leather Manufactures,    -,-,14436.858080582788,51058.14331867397,-,15305,54948
+2025-08,Other Manufactures Group,A) Leather Garments, TH.DOZ,255,6912.548302441188,24456.36013726977,217,6532,23450
+2025-08,Other Manufactures Group,B) Leather Gloves, TH.DOZ,848.3670383,7223.522459875399,25538.201683138625,906,8428,30258
+2025-08,Other Manufactures Group,C) Other Leather Manufactures,    -,-,300.78731826620003,1063.5814982655713,-,345,1240
+2025-08,Other Manufactures Group,34.Footwear,TH.Pairs,1727.8850053,4529.6058981368005,16013.885616047099,1848,5151,18492
+2025-08,Other Manufactures Group,A) Leather Footwear,TH.Pairs,719.8190029,3542.8028584600006,12522.341143403974,914,4206,15099
+2025-08,Other Manufactures Group,B) Canvas Footwear,TH.Pairs,3.26,22.1209972147,78.20796998542765,14,78,280
+2025-08,Other Manufactures Group,C) Other Footwear,TH.Pairs,1004.8060024,964.6820424621001,3413.3365026576976,920,867,3113
+2025-08,Other Manufactures Group,35.Surgical Goods & Medical Instruments,    -,-,10254.928947476965,36267.853035208595,-,10751,38599
+2025-08,Other Manufactures Group,36.Cutlery,    -,-,1250.7109541870002,4421.356029781523,-,1702,6112
+2025-08,Other Manufactures Group,37.Onyx Manufactured,   M.T,199,131.31012885550004,464.26901124889497,76,60,214
+2025-08,Other Manufactures Group,38.Chemicals And Pharm.Products,    -,,30831.539955347504,108994.28191426139,-,36061,129464
+2025-08,Other Manufactures Group,A) Fertilizer Manufactured,   M.T,0,0,0,0,0,0
+2025-08,Other Manufactures Group,B) Plastic Materials,   M.T,32076.1224632,9457.657630824102,33438.638281767046,41961,13979,50186
+2025-08,Other Manufactures Group,C) Pharmaceutical Products,   M.T,6545.757260199998,8861.928128710404,31352.54079226538,6737,7899,28357
+2025-08,Other Manufactures Group,D) Other Chemicals,    -,-,12511.954195812996,44203.10284022897,-,14183,50921
+2025-08,Other Manufactures Group,39.Engineering Goods,    -,-,9858.1936062594,34865.115207118666,-,13001,46674
+2025-08,Other Manufactures Group,A) Electric Fans,TH.NOS,99,524.4664129413999,1855.393609541929,142,705,2532
+2025-08,Other Manufactures Group,B) Transport Equipment,    -,-,451.0128232124,1597.6642683001392,-,424,1522
+2025-08,Other Manufactures Group,C) Other Electrical Machinery,    -,-,2764.3747253413,9773.01422983788,-,1614,5793
+2025-08,Other Manufactures Group,D) Machinery Specialized For,,,,,,,
+2025-08,Particular Industries Group,E) Auto Parts & Accessories,    -,-,624.8732898438001,2208.8646576358437,-,457,1640
+2025-08,Particular Industries Group,F) Rubber Tyres & Tubes,TH.NOS,2242.3434461,2233.3311191913003,7897.049344138827,1958,2452,8803
+2025-08,Particular Industries Group,G) Other Machinery,    -,-,2241.4779624275,7929.187311876563,-,2628,9436
+2025-08,Particular Industries Group,40.Gems,K.G,73.9696425,173.6353503926,614.7594255453531,27,75,271
+2025-08,Particular Industries Group,41.Jewellary,    -,-,7.560218229999998,26.769150805749234,-,164,589
+2025-08,Particular Industries Group,42.Furniture,TH.NOS,71.057,133.7912796477,473.43315769606187,113,234,839
+2025-08,Particular Industries Group,43.Molasses,   M.T,1220.34,38.7511888875,136.84887670367928,8405,345,1239
+2025-08,Particular Industries Group,44.Handicrafts,    -,-,1.3357744097,4.689395856415658,-,24,86
+2025-08,Particular Industries Group,45.Cement,   M.T,980692.406,10705.647492852402,37790.35934763272,588813,6187,22212
+2025-08,Particular Industries Group,46.Guar And Guar Products,   M.T,886.28,502.66768812230004,1778.7606829934668,1502,756,2714
+Month,Group,Commodity,Unit,Quantity_2025,Rupees_2025,Dollar_2025,Quantity_2024,Rupees_2024,Dollars_2024
+2025-09,Food Group,1.Rice, M.T,167324.57880420002,29387.193798222386,104306.90375350998,374402,71563,257197
+2025-09,Food Group,A) Basmati, M.T,35092.5164886,11574.235283913695,41093.88620327084,65108,19630,70551
+2025-09,Food Group,B) Others, M.T,132232.06231560002,17812.95851430869,63213.01755023913,309294,51933,186646
+2025-09,Food Group,2.Fish & Fish Preparations, M.T,18100.609009999996,12190.016389712699,43304.920132908774,15781,9739,35000
+2025-09,Food Group,3.Fruits, M.T,45459.5626088,5193.1354261663,18444.827884600345,46367,6025,21653
+2025-09,Food Group,4.Vegetables, M.T,39944.37024,3659.6125961484995,12999.221813105736,67361,5745,20649
+2025-09,Food Group,5.Leguminous Vegetables  (Pulses), M.T,0,0,0,0,0,0
+2025-09,Food Group,6.Tobacco, M.T,3464.28,3806.204368345,13512.761557876704,3929,4785,17197
+2025-09,Food Group,7.Wheat, M.T,0,0,0,0,0,0
+2025-09,Food Group,8.Spices, M.T,2344.522394799998,1954.8442907418075,6941.851349884285,1759,2366,8504
+2025-09,Food Group,"9.Oil Seeds, Nuts And Kernals", M.T,21888.908346199998,7188.133137862197,25529.863987995308,72611,24923,89573
+2025-09,Food Group,10.Sugar, M.T,0,0,0,51455,7863,28261
+2025-09,Food Group,11.Meat And Meat Preparations, M.T,10119.6123901,12770.3941928517,45363.96959410939,9954,11268,40496
+2025-09,Food Group,12.All Other Food Items,    -,-,18063.16397854869,64145.9391435283,-,23991,86222
+2025-09,Textile Group,13.Raw Cotton, M.T,346.948,164.117992,583.2195877754087,0,0,0
+2025-09,Textile Group,14.Cotton Yarn, M.T,25147.75080139999,17810.111469325697,63252.205334105754,19121,14466,51991
+2025-09,Textile Group,15.Cotton Cloth, M.T,28934.988040599997,42260.63806922637,150095.9263288299,36422,55925,200992
+2025-09,Textile Group,16.Cotton Carded Or Combed, M.T,0,0,0,0,0,0
+2025-09,Textile Group,17.Yarn Other Than Cotton Yarn, M.T,1362.9853512,888.8396981351998,3156.9344947463555,909,728,2615
+2025-09,Textile Group,18.Knitwear,TH.DOZ,21287,130988.9607703938,465166.1099892419,21952,124743,448323
+2025-09,Textile Group,19.Bed Wear, M.T,47525.79239409999,80974.55575015381,287545.203982699,48305,80751,290219
+2025-09,Textile Group,20.Towels, M.T,18404.52337929995,24218.18465664286,86004.05450144809,19328,25195,90550
+2025-09,Textile Group,"21.Tents,Canvas & Tarpulin", M.T,5724.256628899999,6671.6816981964985,23691.304021600994,3694,2565,9219
+2025-09,Textile Group,22.Readymade Garments,TH.DOZ,6430,92701.94887708253,329199.3943825051,7061,94137,338326
+2025-09,Textile Group,"23.Art,Silk & Synthetic Textile", M.T,6519.2052151,8986.2564983142,31910.952629996984,7548,9805,35238
+2025-09,Textile Group,24.Madeup Articles(Excl.Towels & Bedwear.),   -,-,19789.190615071802,70273.83057662868,-,19938,71657
+2025-09,Textile Group,25.Other Textile Materials,   -,-,17470.982377838995,62040.38036247722,-,18288,65726
+2025-09,Petroleum  & Coal Group,26.Petroleum Crude, M.T,0,0,0,40552,6879,24723
+2025-09,Petroleum  & Coal Group,27.Petroleum Products(Excl Top Naphta), M.T,85640.314,9820.2846074175,34839.658443077395,58273,7322,26315
+2025-09,Petroleum  & Coal Group,28.Petroleum Top Naphta, M.T,9233.172,1512.6982682760001,5373.706104,9279,1864,6698
+2025-09,Petroleum  & Coal Group,29.Solid Fuels (Coal), M.T,0,0,0,0,0,0
+2025-09,Other Manufactures Group,"30.Carpets, Rugs & Mats",TH.SQM,198.45328020000005,1152.370401071001,4092.465914365556,209,944,3392
+2025-09,Other Manufactures Group,31.Sports Goods,   -,-,10057.969315907783,35714.629867636286,-,8654,31104
+2025-09,Other Manufactures Group,A)  Footballs,TH.DOZ,386,6430.000358229586,22830.996752226652,313,4904,17625
+2025-09,Other Manufactures Group,B)  Gloves,TH.DOZ,51,1218.6738751579974,4327.374126423367,80,1807,6495
+2025-09,Other Manufactures Group,C)  Others,   -,-,2409.2950825202015,8556.258988986267,-,1943,6984
+2025-09,Other Manufactures Group,32.Leather Tanned, M.T,812.5471242,3484.6762419596,12377.51626028686,801,3749,13474
+2025-09,Other Manufactures Group,33.Leather Manufactures,    -,-,13637.520531150412,48427.620474550014,-,15465,55579
+2025-09,Other Manufactures Group,A) Leather Garments, TH.DOZ,185,5777.950631579308,20519.586486136915,171,6824,24524
+2025-09,Other Manufactures Group,B) Leather Gloves, TH.DOZ,863,7444.758046247304,26435.219459745742,877,8284,29772
+2025-09,Other Manufactures Group,C) Other Leather Manufactures,    -,-,414.8118533237999,1472.814528667355,-,357,1283
+2025-09,Other Manufactures Group,34.Footwear,TH.Pairs,1921.408,3371.3414313746002,11972.9346737029,1545,4131,14845
+2025-09,Other Manufactures Group,A) Leather Footwear,TH.Pairs,576.674,2443.4201200330003,8677.082390709007,798,3375,12130
+2025-09,Other Manufactures Group,B) Canvas Footwear,TH.Pairs,1.068,3.1532052727999997,11.189086086093889,9,47,168
+2025-09,Other Manufactures Group,C) Other Footwear,TH.Pairs,1343.666,924.7681060688002,3284.6631969078016,738,709,2547
+2025-09,Other Manufactures Group,35.Surgical Goods & Medical Instruments,    -,-,10374.606876413562,36843.81198849629,-,11150,40074
+2025-09,Other Manufactures Group,36.Cutlery,    -,-,1291.8901406166005,4586.93748416179,-,1380,4960
+2025-09,Other Manufactures Group,37.Onyx Manufactured,   M.T,110,122.5716845048,435.3843215625548,187,143,515
+2025-09,Other Manufactures Group,38.Chemicals And Pharm.Products,    -,-,34158.336618136,121293.04501144926,-,39318,141308
+2025-09,Other Manufactures Group,A) Fertilizer Manufactured,   M.T,0,0,0,0,0,0
+2025-09,Other Manufactures Group,B) Plastic Materials,   M.T,27101.691091800003,7539.8524072221,26767.221507604718,34571,11803,42419
+2025-09,Other Manufactures Group,C) Pharmaceutical Products,   M.T,5535.6740038,9421.251415726783,33461.79473542604,8304,12133,43607
+2025-09,Other Manufactures Group,D) Other Chemicals,    -,-,17197.232795187116,61064.0287684185,-,15382,55282
+2025-09,Other Manufactures Group,39.Engineering Goods,    -,-,11202.116702669602,39779.038696378935,-,9788,35177
+2025-09,Other Manufactures Group,A) Electric Fans,TH.NOS,106.334,600.420820645,2131.6243096355092,100,538,1935
+2025-09,Other Manufactures Group,B) Transport Equipment,    -,-,834.3122726545001,2964.00478095986,-,1194,4291
+2025-09,Other Manufactures Group,C) Other Electrical Machinery,    -,-,1928.2055289397997,6845.538114911137,-,1059,3805
+2025-09,Other Manufactures Group,D) Machinery Specialized For,,,,,,,
+2025-09,Particular Industries Group,E) Auto Parts & Accessories,    -,-,628.3553137132001,2231.8868578686643,-,606,2177
+2025-09,Particular Industries Group,F) Rubber Tyres & Tubes,TH.NOS,1959.6595300000001,3166.131680677102,11242.337367924247,1807,2675,9614
+2025-09,Particular Industries Group,G) Other Machinery,    -,-,2796.1775156118997,9928.678697395717,-,2440,8770
+2025-09,Particular Industries Group,40.Gems,K.G,28.086325,54.277949549500015,192.83550569415317,158,90,324
+2025-09,Particular Industries Group,41.Jewellary,    -,-,1.8652554581,6.622163171598943,-,207,745
+2025-09,Particular Industries Group,42.Furniture,TH.NOS,98.9740001,171.0882644667,607.5402574972186,117,228,818
+2025-09,Particular Industries Group,43.Molasses,   M.T,1734.735,49.08530097399999,174.32954289624107,12281,528,1896
+2025-09,Particular Industries Group,44.Handicrafts,    -,-,0,0,-,1,2
+2025-09,Particular Industries Group,45.Cement,   M.T,667282.7477906,7399.7426958208025,26267.36828160567,800711,7927,28490
+2025-09,Particular Industries Group,46.Guar And Guar Products,   M.T,1173.6597,682.6686573261,2424.576313895614,1464,776,2790
