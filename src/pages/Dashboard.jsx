@@ -45,7 +45,7 @@ const CustomTooltip = ({ active, payload, label, currency }) => {
 const formatValue = (value, currency) => {
   if (!value || value === 0) return currency === 'USD' ? '$0' : 'Rs0';
   if (currency === 'USD') {
-    if (Math.abs(value) >= 1000000) return `$${(value / 1000000).toFixed(2)}M`;
+    if (Math.abs(value) >= 1000000000) return `$${(value / 1000000000).toFixed(2)}B`;
     if (Math.abs(value) >= 1000) return `$${(value / 1000).toFixed(2)}K`;
     return `$${value.toFixed(2)}`;
   } else {
