@@ -55,7 +55,7 @@ function AIChat() {
   const [error, setError] = useState(null);
   const [plotlyChart, setPlotlyChart] = useState(null);
   const messagesEndRef = useRef(null);
-
+console.log("Plotly Chart",plotlyChart);
   // Check backend health on mount
   useEffect(() => {
     checkBackendHealth();
@@ -175,7 +175,7 @@ function AIChat() {
       // Extract responses from the data object
       const csvResponse = response.data?.csv_response || response.response;
       const economicsResponse = response.data?.economics_response;
-      const graphResponse = response.data?.graph_response;
+      const graphResponse = response.chart_data;
 
       // Add Dataset Analyst message
       if (csvResponse) {
@@ -203,9 +203,9 @@ function AIChat() {
       }
 
       // Handle graph visualization if available
-      if (graphResponse && graphResponse.chart_json) {
+      if (graphResponse ) {
         console.log('📊 Chart data received:', graphResponse);
-        setPlotlyChart(graphResponse.chart_json);
+        setPlotlyChart(graphResponse);
       }
 
       setIsLoading(false);
@@ -504,8 +504,10 @@ function AIChat() {
                   }}
                   config={{ responsive: true, displayModeBar: false }}
                   style={{ width: '100%', height: '100%' }}
+                  
                 />
               </div>
+              
             ) : (
               <div className="flex-1 flex items-center justify-center text-center">
                 <div>
