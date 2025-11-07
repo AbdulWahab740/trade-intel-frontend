@@ -17,6 +17,7 @@ import {
   Shield
 } from 'lucide-react';
 import FloatingChatButton from '../components/FloatingChatButton';
+import Footer from '../components/Footer';
 
 const LandingPage = () => {
   const [currentFeature, setCurrentFeature] = useState(0);
@@ -397,7 +398,9 @@ const LandingPage = () => {
         </div>
       </section>
 
-      {/* CTA Section */}
+
+      <Footer />
+      {/* CTA Section
       <section className="py-20 bg-gradient-to-r from-green-600 via-blue-600 to-purple-600">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
@@ -415,7 +418,7 @@ const LandingPage = () => {
             <ArrowRight className="w-6 h-6" />
           </Link>
         </div>
-      </section>
+      </section> */}
 
       {/* Add custom animations */}
       <style>{`
