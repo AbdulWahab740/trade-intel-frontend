@@ -131,7 +131,7 @@ const LandingPage = () => {
 
             <p className="text-xl md:text-2xl text-gray-600 max-w-3xl mx-auto mb-8 animate-slide-up-delay">
               Collaborate with dual AI agents to transform trade data into actionable development strategies. 
-              <span className="font-semibold text-gray-800"> Perfect for planning and development professionals.</span>
+              <span className="font-semibold text-gray-800">  For planning and development professionals.</span>
             </p>
 
             {/* CTA Buttons */}
@@ -156,7 +156,7 @@ const LandingPage = () => {
             {/* Stats */}
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-4xl mx-auto">
               <div className="bg-white/80 backdrop-blur-sm rounded-xl p-6 shadow-lg border border-gray-100">
-                <div className="text-3xl font-bold text-green-600 mb-2">2</div>
+                <div className="text-3xl font-bold text-green-600 mb-2">Multiple</div>
                 <div className="text-gray-600 font-medium">AI Agents</div>
                 <div className="text-sm text-gray-500">Collaborating in real-time</div>
               </div>
@@ -167,7 +167,7 @@ const LandingPage = () => {
               </div>
               <div className="bg-white/80 backdrop-blur-sm rounded-xl p-6 shadow-lg border border-gray-100">
                 <div className="text-3xl font-bold text-purple-600 mb-2">24/7</div>
-                <div className="text-gray-600 font-medium">Session Analysis</div>
+                <div className="text-gray-600 font-medium"> Analysis</div>
                 <div className="text-sm text-gray-500">Continuous planning support</div>
               </div>
             </div>
@@ -251,13 +251,13 @@ const LandingPage = () => {
 
           {/* How They Work Together */}
           <div className="bg-gradient-to-r from-green-50 via-blue-50 to-purple-50 rounded-2xl p-8 border-2 border-gray-200">
-            <h3 className="text-2xl font-bold text-gray-900 mb-6 text-center">Session-Based Collaboration</h3>
+            <h3 className="text-2xl font-bold text-gray-900 mb-6 text-center">Conservation-Based Collaboration</h3>
             <div className="flex flex-col md:flex-row items-center justify-center gap-8">
               <div className="flex-1 text-center">
                 <div className="w-20 h-20 bg-blue-500 rounded-full flex items-center justify-center text-white text-2xl font-bold mx-auto mb-4 shadow-lg">
                   1
                 </div>
-                <h4 className="font-semibold text-gray-900 mb-2">Start a Session</h4>
+                <h4 className="font-semibold text-gray-900 mb-2">Start a Concersation</h4>
                 <p className="text-sm text-gray-600">Begin a conversation with both AI agents</p>
               </div>
               <ArrowRight className="w-8 h-8 text-gray-400 hidden md:block" />
@@ -293,7 +293,7 @@ const LandingPage = () => {
               Transform Insights into <span className="bg-gradient-to-r from-green-600 to-blue-600 bg-clip-text text-transparent">Development Strategy</span>
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Every conversation session culminates in actionable recommendations for future planning, 
+              Every conversation culminates in actionable recommendations for future planning, 
               resource allocation, and strategic development initiatives.
             </p>
           </div>
@@ -327,7 +327,7 @@ const LandingPage = () => {
                 <h3 className="text-2xl font-bold text-gray-900">Planning Outcomes</h3>
               </div>
               <p className="text-gray-600 mb-6">
-                Each AI session conversation generates strategic insights that directly support:
+                Each AI conversation generates strategic insights that directly support:
               </p>
               <div className="space-y-4">
                 {planningOutcomes.map((outcome, index) => (
@@ -341,7 +341,7 @@ const LandingPage = () => {
                 to="/ai-chat"
                 className="mt-8 inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-green-600 to-green-700 text-white rounded-lg font-semibold hover:shadow-lg transform hover:scale-105 transition-all duration-300"
               >
-                Start Planning Session
+                Start Planning 
                 <ArrowRight className="w-4 h-4" />
               </Link>
             </div>
@@ -411,7 +411,7 @@ const LandingPage = () => {
             className="inline-flex items-center gap-3 px-8 py-4 bg-white text-green-600 rounded-xl font-bold text-lg shadow-2xl hover:shadow-3xl transform hover:scale-105 transition-all duration-300"
           >
             <MessageSquare className="w-6 h-6" />
-            Begin AI Planning Session
+            Begin AI Planning 
             <ArrowRight className="w-6 h-6" />
           </Link>
         </div>

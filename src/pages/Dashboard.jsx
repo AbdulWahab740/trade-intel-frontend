@@ -332,7 +332,7 @@ const Dashboard = () => {
             <div>
               <div className="flex items-center gap-3 mb-2">
                 <h1 className="text-3xl font-bold bg-gradient-to-r from-green-600 to-green-800 bg-clip-text text-transparent">
-                  Pakistan Trade Intelligence Dashboard
+                   Trade Intelligence Dashboard
                 </h1>
                 {selectedCategory !== 'all' && (
                   <span className="px-3 py-1 bg-green-100 text-green-700 rounded-full text-sm font-semibold flex items-center gap-2">

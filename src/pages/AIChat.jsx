@@ -352,7 +352,7 @@ function AIChat() {
 
   return (
     <div className="space-y-6">
-      {/* Header with Session Info */}
+      {/* Header with Session Info
       <div className="bg-gradient-to-r from-green-50 to-blue-50 rounded-xl p-6 border-2 border-green-200">
         <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
           <div>
@@ -380,7 +380,7 @@ function AIChat() {
             </button>
           </div>
         </div>
-      </div>
+      </div> */}
 
       {/* Active Agents Status */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
