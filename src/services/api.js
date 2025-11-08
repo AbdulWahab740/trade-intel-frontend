@@ -1,12 +1,9 @@
 // src/services/api.js
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://trade-edge-pk.onrender.com';
 
 export const agentService = {
   // Single unified analysis endpoint
   async Analysis_response(query, conversationHistory = []) {
-    console.log('🚀 API Call: Unified Analysis');
-    console.log('   Query:', query);
-    console.log('   History length:', conversationHistory.length);
     
     try {
       const requestBody = {
@@ -14,7 +11,7 @@ export const agentService = {
         conversation_history: conversationHistory
       };
       
-      console.log('   Request body:', JSON.stringify(requestBody, null, 2));
+      
       
       const response = await fetch(`${API_BASE_URL}/analyze`, {
         method: 'POST',
