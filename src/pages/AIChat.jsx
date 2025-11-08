@@ -73,7 +73,7 @@ function AIChat() {
       setBackendStatus(isHealthy ? 'connected' : 'disconnected');
     } catch (error) {
       setBackendStatus('disconnected');
-      console.error('Backend health check failed:', error);
+      
     }
   };
 
@@ -168,7 +168,6 @@ const extractPlanningInsights = (parsedEconomicsResponse, msgId, timestamp) => {
         ));
         setStreamingAgent(null);
         setIsLoading(false);
-        console.log('✅ Economics Expert streaming complete');
       },
       80,
       40
@@ -205,7 +204,7 @@ const extractPlanningInsights = (parsedEconomicsResponse, msgId, timestamp) => {
     }));
 
     try {
-      console.log('🚀 Calling analysis endpoint...');
+      
       
       // Get complete response from backend
       const response = await agentService.Analysis_response(query, conversationHistory);
@@ -217,7 +216,7 @@ const csvResponse = response.data?.csv_response || response.response;
         // NOTE: Your backend seems to return the JSON string here, not under .output
         const economicsJsonString = response.data?.economics_response; 
         const graphResponse = response.chart_data;
-        console.log("Economics:", economicsJsonString)
+        
         let parsedEconomicsResult = null; // Renamed for clarity
         
         if (economicsJsonString.output) {
@@ -225,7 +224,7 @@ const csvResponse = response.data?.csv_response || response.response;
                 // 2. PARSE THE JSON STRING into an object
                 parsedEconomicsResult = economicsJsonString
                 setEconomicsResponse(parsedEconomicsResult); // Store the parsed object in state
-                console.log("Parsed:", parsedEconomicsResult)
+                
                 
                 // 3. Extract and set insights immediately (using a unique ID)
                 const insights = extractPlanningInsights(
@@ -233,14 +232,14 @@ const csvResponse = response.data?.csv_response || response.response;
                     Date.now() + 2,
                     new Date()
                 );
-                console.log("Insights: ", insights)
+                
                 setPlanningInsights(prev => [...prev, ...insights].slice(-5)); // Add new insight
                 
                 // 4. REMOVE: The immediate expertMessage is removed.
                 // We rely on the streaming function below to add the expert message.
 
             } catch (jsonError) {
-                console.error("Error parsing Economics JSON. Agent may not have returned valid JSON:", jsonError);
+                
                 // If parsing fails, we set the result to the raw string to display the error.
                 parsedEconomicsResult = economicsJsonString; 
             }
@@ -284,7 +283,7 @@ const csvResponse = response.data?.csv_response || response.response;
                     : msg
             ));
             setStreamingAgent(null);
-            console.log('✅ CSV Agent streaming complete');
+            
             
             // Now stream Economics Expert after a delay
             setTimeout(() => {
@@ -308,12 +307,12 @@ const csvResponse = response.data?.csv_response || response.response;
 
       // Handle graph visualization
       if (graphResponse ) {
-        console.log('📊 Chart data received');
+        
         setPlotlyChart(graphResponse);
       }
 
     } catch (error) {
-      console.error('❌ Analysis error:', error);
+      
       setMessages(prev => [...prev, {
         id: Date.now() + 3,
         sender: 'dataset',

@@ -21,20 +21,20 @@ export const agentService = {
         body: JSON.stringify(requestBody)
       });
 
-      console.log('   Response status:', response.status);
+      
       
       if (!response.ok) {
         const errorText = await response.text();
-        console.error('   Response error text:', errorText);
+        
         throw new Error(`Analysis Error: ${response.status} - ${errorText}`);
       }
 
       const data = await response.json();
-      console.log('✅ Analysis Response:', data);
+    
       return data;
       
     } catch (error) {
-      console.error('❌ Analysis API Error:', error);
+    
       throw error;
     }
   },
@@ -42,12 +42,11 @@ export const agentService = {
   // Health check
   async healthCheck() {
     try {
-      console.log('🔍 Checking backend health...');
       const response = await fetch(`${API_BASE_URL}/health`);
-      console.log('   Health status:', response.status);
+     
       return response.ok;
     } catch (error) {
-      console.error('❌ Health check failed:', error);
+      
       return false;
     }
   }

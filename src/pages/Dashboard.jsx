@@ -306,7 +306,7 @@ const Dashboard = () => {
 
       return topCommodities;
     } catch (error) {
-      console.error('Error getting commodities data:', error);
+      
       return null;
     }
   }, [selectedCategory, currency]);
