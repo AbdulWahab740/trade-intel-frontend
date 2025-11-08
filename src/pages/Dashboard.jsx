@@ -2,7 +2,8 @@ import { useState, useEffect, useMemo } from 'react';
 import { DollarSign, Package, TrendingUp, TrendingDown, ArrowUpCircle, ArrowDownCircle } from 'lucide-react';
 import { 
   ComposedChart, Bar, Line, Area,
-  XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, PieChart, Pie, Cell, BarChart
+  XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, PieChart, Pie, Cell, BarChart,
+  
 } from 'recharts';
 import { 
   initTradeData,
@@ -12,7 +13,8 @@ import {
   getTradeGroups,
   getCommoditiesByCategory,
   getTimeSeriesData,
-  isDataInitialized
+  isDataInitialized,
+  getRawRows
 } from '../data/tradeData';
 import KPICard from '../components/KPICard';
 import CategorySelector from '../components/CatagorySelector';
@@ -210,6 +212,41 @@ const Dashboard = () => {
       }] : [])
     ];
 
+    // Compute overall top commodities across all groups
+    let topCommoditiesOverall = [];
+    try {
+      const raw = getRawRows();
+      const totals = {};
+      for (const row of raw) {
+        const name = row.commodity || 'Unknown';
+        const value = currency === 'USD' ? (row.valueUSD || 0) : (row.valuePKR || 0);
+        const imports = row.type === 'Import' ? value : 0;
+        const exports = row.type === 'Export' ? value : 0;
+
+        if (!totals[name]) {
+          totals[name] = { value: 0, imports: 0, exports: 0 };
+        }
+        totals[name].value += value;
+        totals[name].imports += imports;
+        totals[name].exports += exports;
+      }
+
+      topCommoditiesOverall = Object.entries(totals)
+        .map(([name, { value, imports, exports }]) => ({ 
+          name, 
+          value, 
+          isImportHeavy: imports > exports 
+        }))
+        .sort((a, b) => (b.value || 0) - (a.value || 0))
+        .slice(0, 10);
+    } catch (e) {
+      console.warn('Failed computing top commodities overall:', e);
+    }
+
+
+
+
+
     return {
       monthly: monthlyTrends,
       categories: categoriesList,
@@ -220,7 +257,10 @@ const Dashboard = () => {
         exports: totalExports,
         balance: netBalance
       },
-      trend: valueTrend
+      trend: valueTrend,
+      topCommoditiesOverall
+
+
     };
   }, [monthlyData, categoryData, currency, selectedCategory]);
 
@@ -320,7 +360,7 @@ const Dashboard = () => {
   }
 
   // Destructure chart data for use in render
-  const { monthly, categories, totals, trend } = chartData;
+  const { monthly, categories, totals, trend, topCommoditiesOverall } = chartData;
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-50 via-white to-gray-50 p-4 lg:p-8">
@@ -597,6 +637,45 @@ const Dashboard = () => {
             </BarChart>
           </ResponsiveContainer>
         </div>
+
+        {/* Trade Balance Trend (Imports vs Exports over months) */}
+        <div className="bg-white p-6 rounded-2xl shadow-lg">
+          <h3 className="text-xl font-semibold text-gray-900 mb-2">Trade Balance Trend</h3>
+          <p className="text-sm text-gray-500 mb-4">Import vs Export over months</p>
+          <ResponsiveContainer width="100%" height={400}>
+            <ComposedChart data={monthly}>
+              <CartesianGrid strokeDasharray="3 3" stroke="#e5e7eb" />
+              <XAxis dataKey="month" tick={{ fontSize: 11, fill: '#6b7280' }} angle={-45} textAnchor="end" height={80} />
+              <YAxis tick={{ fontSize: 11, fill: '#6b7280' }} tickFormatter={(value) => formatValue(value, currency)} />
+              <Tooltip content={<CustomTooltip currency={currency} />} />
+              <Legend />
+              <Line type="monotone" dataKey="Imports" stroke="#ef4444" strokeWidth={3} dot={false} name="Imports" />
+              <Line type="monotone" dataKey="Exports" stroke="#10b981" strokeWidth={3} dot={false} name="Exports" />
+            </ComposedChart>
+          </ResponsiveContainer>
+        </div>
+
+        {/* Top Performing Commodities (Overall) */}
+        <div className="bg-white p-6 rounded-2xl shadow-lg">
+          <h3 className="text-xl font-semibold text-gray-900 mb-2">Top Performing Commodities (Overall)</h3>
+          <p className="text-sm text-gray-500 mb-4">Top 10 by trade value. <span className="text-red-500">Red</span> for import-heavy, <span className="text-green-500">green</span> for export-heavy.</p>
+          <ResponsiveContainer width="100%" height={480}>
+            <BarChart data={topCommoditiesOverall} layout="vertical" margin={{ left: 40, right: 20 }}>
+              <CartesianGrid strokeDasharray="3 3" stroke="#e5e7eb" />
+              <XAxis type="number" tick={{ fontSize: 11, fill: '#6b7280' }} tickFormatter={(value) => formatValue(value, currency)} />
+              <YAxis type="category" dataKey="name" tick={{ fontSize: 11, fill: '#6b7280' }} width={180} />
+              <Tooltip formatter={(value) => formatValue(value, currency)} />
+              <Bar dataKey="value" name="Value" radius={[4, 4, 4, 4]}>
+                {topCommoditiesOverall.map((entry, index) => (
+                  <Cell key={`cell-${index}`} fill={entry.isImportHeavy ? '#ef4444' : '#10b981'} />
+                ))}
+              </Bar>
+            </BarChart>
+          </ResponsiveContainer>
+        </div>
+
+
+
 
         {/* Category Focused View */}
         {selectedCategory !== 'all' && (() => {
