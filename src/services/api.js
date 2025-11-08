@@ -20,8 +20,6 @@ export const agentService = {
         },
         body: JSON.stringify(requestBody)
       });
-
-      
       
       if (!response.ok) {
         const errorText = await response.text();

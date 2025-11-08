@@ -561,6 +561,11 @@ const csvResponse = response.data?.csv_response || response.response;
               <Send className="w-4 h-4" />
             </button>
           </div>
+          <div className="mt-2 text-center">
+            <p className="text-xs text-gray-500">
+                All the responses will contain Rupees values in Millions and USD values in Thousands. The quantity will be in M.T
+            </p>
+        </div>
         </div>
 
         {/* Right Sidebar - Planning Insights & Visualizations */}
