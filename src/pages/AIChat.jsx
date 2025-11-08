@@ -588,7 +588,7 @@ const csvResponse = response.data?.csv_response || response.response;
                         {insight.type === 'recommendation' ? 'Strategy' : insight.type === 'comparison' ? 'Comparison' : 'Opportunity'}
                       </span>
                     </div>
-                    <p className="text-sm text-gray-700 line-clamp-3">{insight.text}</p>
+                    <p className="text-sm text-gray-700">{insight.text}</p>
                     <p className="text-xs text-gray-500 mt-2">
                       {insight.timestamp.toLocaleTimeString()}
                     </p>
