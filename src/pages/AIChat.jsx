@@ -77,16 +77,6 @@ function AIChat() {
     }
   };
 
-
-// Helper to safely parse JSON strings
-const safeJsonParse = (text) => {
-    try {
-        return JSON.parse(text);
-    } catch (e) {
-        return null;
-    }
-};
-
 /**
  * Extracts structured planning and development insights from the conversation messages,
  * prioritizing the JSON output from the Economics Agent.
@@ -720,7 +710,7 @@ const csvResponse = response.data?.csv_response || response.response;
         <h3 className="text-lg font-semibold text-gray-900 mb-4">Quick Questions</h3>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-3">
           <button
-            onClick={() => setInput('What is the most valued import in June 2025?')}
+            onClick={() => setInput('What is the most valued imported Group in June 2025 and what was its value?')}
             disabled={backendStatus !== 'connected'}
             className="btn-secondary text-left disabled:opacity-50"
           >
@@ -728,7 +718,7 @@ const csvResponse = response.data?.csv_response || response.response;
             Most valued June import?
           </button>
           <button
-            onClick={() => setInput('Show me Food Group imports by quantity')}
+            onClick={() => setInput('Show me Food Group imports by quantity of September 2025')}
             disabled={backendStatus !== 'connected'}
             className="btn-secondary text-left disabled:opacity-50"
           >
@@ -736,7 +726,7 @@ const csvResponse = response.data?.csv_response || response.response;
             Food Group analysis
           </button>
           <button
-            onClick={() => setInput('Compare all groups and visualize')}
+            onClick={() => setInput('Compare Textile group & Manufacturing group imports by quantity of 2025')}
             disabled={backendStatus !== 'connected'}
             className="btn-secondary text-left disabled:opacity-50"
           >
